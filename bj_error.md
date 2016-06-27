@@ -16,7 +16,7 @@ bossGiveMoneyInfo信息拆分错误
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%882.11.19.png)
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%882.19.44.png)
 ## 3.北京市逗逗烟花爆竹有限公司
-#### a.bossGiveMoneyInfo包含在bossInfo的详情中
+### a.bossGiveMoneyInfo包含在bossInfo的详情中
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%882.24.16.png)
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%882.24.27.png)
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%882.24.42.png)
@@ -30,11 +30,20 @@ bossGiveMoneyInfo信息拆分错误
 changeInfo字段内容没有返回，变更信息中有详细内容
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%882.40.44.png)
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%882.41.04.png)
-
 ## 5.北京链家房地产经纪有限公司
 ### a.changeInfo
 changeInfo中有详细内容，字段信息也有错误
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%882.48.46.png)
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%882.40.26.png)
+## 6.四方电气（集团）股份有限公司
+### a.发起人信息
+![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%883.33.54.png)
+### b.comReportInfo
+年报中的siteInfo源信息并没有该字段，而返回的数据似乎把企业基本信息当成siteInfo了
+![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%883.39.02.png)
+### c.changeInfo
+changeInfo字段信息没有返回，变更信息包含详情。
+![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%883.47.27.png)
+
 
 
