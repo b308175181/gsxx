@@ -5,7 +5,7 @@
 #### B.bossGiveMoneyInfo
 存在bossGiveMoneyInfo信息错误
 #### C.comReportInfo
-comReportInfo中有三个点需要重点关注：1.comReportInfo里面comAssetsInfo里的turnover普遍有两个不公示；2.siteInfo信息有误；3.存在changeInfo没有返回数据。
+comReportInfo中有三个点需要重点关注：**1.**comReportInfo里面comAssetsInfo里的turnover普遍有两个不公示；**2.**siteInfo信息有误；**3.**存在changeInfo没有返回数据。
 ### 1.天津利安隆新材料股份有限公司
 #### a.mortageInfo
 mortageInfo信息**没有返回**，其中有**详情信息**。
