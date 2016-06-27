@@ -1,4 +1,11 @@
 # 天津市
+### 就观察结果看，天津的数据存在以下问题：
+#### A.mortageInfo
+存在mortageInfo信息没有返回
+#### B.bossGiveMoneyInfo
+存在bossGiveMoneyInfo信息错误
+#### C.comReportInfo
+comReportInfo中有三个点需要重点关注：1.comReportInfo里面comAssetsInfo里的turnover普遍有两个不公示；2.siteInfo信息有误；3.存在changeInfo没有返回数据。
 ### 1.天津利安隆新材料股份有限公司
 #### a.mortageInfo
 mortageInfo信息**没有返回**，其中有**详情信息**。
@@ -25,5 +32,8 @@ comAdministrativeLicenseInfo数据**没有返回**
 comReportInfo中的**siteInfo**，对于这种多个网站信息的，返回的网站名称都相同，而实际上是不同的，数量上也不对。另外comReportInfo里面comAssetsInfo里的**turnover也有两个不公示**。
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%8810.25.45.png)
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%8810.40.24.png)
+comReportInfo中的**changeInfo也没有返回数据**
+![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%8811.15.22.png)
+![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-27%20%E4%B8%8B%E5%8D%8811.15.33.png)
 
 
