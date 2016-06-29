@@ -1,12 +1,11 @@
 # 吉林省
 ### 从现阶段观察情况看，吉林省数据存在以下问题：
 #### A.bossGiveMoneyInfo和comBossGiveMoneyInfo
-工商公示信息的股东信息中并没有详情，而bossGiveMoneyInfo返回的是企业公示信息中的股东出资信息(comBossGiveMoneyInfo),并且实际的comBossGiveMoneyInfo的出资方式(认缴和实缴)也没有返回；
+工商公示信息的股东信息中并没有详情，而bossGiveMoneyInfo返回的是企业公示信息中的股东出资信息(comBossGiveMoneyInfo),并且存在实际的comBossGiveMoneyInfo的出资方式(认缴和实缴)也没有返回；
 #### B.changeInfo
 存在有多条多页changeInfo，但只返回一条信息。
 #### C.comReportInfo
-comAssetsInfo中turnover信息重复两次
-
+comAssetsInfo中turnover信息包含了mainTurnover的信息。
 ### 1.吉林白山正茂药业股份有限公司
 #### a.comReportInfo
 comAssetsInfo中turnover信息重复两次；
@@ -28,6 +27,12 @@ comAssetsInfo中turnover信息重复两次；
 
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-29%20%E4%B8%8B%E5%8D%889.50.09.png)
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-29%20%E4%B8%8B%E5%8D%889.51.13.png)
+### 3.通化吉恩镍业有限公司
+#### a.comBossGiveMoneyInfo
+与延边新视野文化传媒股份有限公司不同，该公司的数据中有返回出资方式信息。
+
+![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-29%20%E4%B8%8B%E5%8D%8811.03.11.png)
+![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-29%20%E4%B8%8B%E5%8D%8811.03.17.png)
 
 
 
