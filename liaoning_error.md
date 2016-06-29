@@ -9,6 +9,7 @@
 ### 1.盘锦万顺实业有限公司
 #### a.bossGiveMoneyInfo
 工商公示信息的股东信息中并没有详情，而bossGiveMoneyInfo返回的是企业公示信息中的股东出资信息(comBossGiveMoneyInfo)。
+
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-29%20%E4%B8%8B%E5%8D%882.00.00.png)
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-29%20%E4%B8%8B%E5%8D%882.00.10.png)
 #### b.comBossGiveMoneyInfo
