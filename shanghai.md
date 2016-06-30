@@ -26,7 +26,7 @@ comBossGiveMoneyInfo数据没有返回，有变更信息。
 
 ### 2.上海统一星巴克咖啡有限公司
 #### a.bossGiveMoneyInfo
-查看原网页，股东信息的详情中并没有返回出资信息。
+查看原网页，股东信息的详情中并没有出资信息。
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-30%20%E4%B8%8B%E5%8D%882.08.07.png)
 
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-30%20%E4%B8%8B%E5%8D%882.05.30.png)
