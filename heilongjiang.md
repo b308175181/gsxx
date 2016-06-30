@@ -38,6 +38,7 @@ comAssetsInfo中turnover信息包含了mainTurnover的信息。
 
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-30%20%E4%B8%8A%E5%8D%8810.52.58.png)
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-30%20%E4%B8%8A%E5%8D%8810.52.34.png)
+
 而在黑龙江省富裕明星食品有限公司siteInfo是没有问题的：
 
 ![](http://o7qrps1cr.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-06-30%20%E4%B8%8A%E5%8D%8810.54.14.png )
