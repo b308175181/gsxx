@@ -1,6 +1,14 @@
 # 福建省
-### 
-#### 
+### 福建省的数据存在以下问题：
+#### A.mortageInfo
+抵押权人信息没有返回；
+#### B.bossGiveMoneyInfo
+出资方式没有返回；
+#### C.changeInfo
+更多信息尾部的**收起更多**信息需要删除；
+#### D.comReportInfo
+omReportInfo中comAssetsInfo的**turnover**信息包含了mainTurnover的信息.
+
 ### 1.福建省东鑫石油化工有限公司
 #### a.mortageInfo
 其他字段没有问题，但我觉得**抵押权人**的信息也需要抓取。
