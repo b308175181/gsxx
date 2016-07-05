@@ -1,5 +1,16 @@
 # 山西省
 ### 从目前的情况看，山西的数据存在以下问题：
+
+
+dkfjdhfjdhjfhj
+
+
+
+
+
+
+
+
 #### A.comReportInfo
 **1。**存在一些年份的年报详细内容没有抓回，**2**turnover把营业总收入和营业总收入中主营业务收入都包括了；**3.**siteInfo信息有误
 #### B.存在bossInfo和bossGiveMoneyInfo,comBossGiveMoneyInfo信息没有返回
